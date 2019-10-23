@@ -1,0 +1,21 @@
+// tabBar Styles
+$blue-light: #5e92f3;
+
+.tab {
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 10px;
+  flex-direction: row;
+}
+
+.tabCaption {
+  padding: 5px 10px 0;
+}
+
+.tabs {
+  height: 45px;
+  flex-direction: row;
+  padding-top: 10px;
+  background-color: #222222;
+}
