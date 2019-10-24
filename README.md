@@ -1,5 +1,5 @@
 
-## react-native-scrollable-tab-view
+## react-native-scrollable-tabs-hybrid
 This is a fork of [React Native Scrollable Tab View](https://github.com/ptomasroos/react-native-scrollable-tab-view), which allows displaying both icon and label on the tabs.
 
 ## Demo
@@ -10,8 +10,8 @@ This is a fork of [React Native Scrollable Tab View](https://github.com/ptomasro
 
 1. Run either
 ```
-npm install https://github.com/saravanabalagi/react-native-scrollable-tab-view --save
-yarn add https://github.com/saravanabalagi/react-native-scrollable-tab-view
+npm install react-native-scrollable-tabs-hybrid --save
+yarn add react-native-scrollable-tabs-hybrid
 ```
 2. `var ScrollableTabView = require('react-native-scrollable-tab-view');`
 
